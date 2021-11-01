@@ -105,3 +105,9 @@ dist
 
 # MacOS
 .DS_Store
+
+# VSCode
+.vscode
+
+# JSON
+package-lock.json
