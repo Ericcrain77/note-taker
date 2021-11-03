@@ -28,7 +28,7 @@ app.post('/api/notes', (req, res) => {
     newNote.id = uniqid();
     existingNote.push(newNote);
 
-    fs.writeFileSync('./Developdb/db.json', JSON.stringify(existingNote));
+    fs.writeFileSync('./Develop/db/db.json', JSON.stringify(existingNote));
     res.json(existingNote);
 });
 
