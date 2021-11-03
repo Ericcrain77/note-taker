@@ -25,7 +25,7 @@ app.get('*', (req, res) => {
 app.post('/api/notes', (req, res) => {
     const existingNote = JSON.parse(fs.readFileSync('./Develop/db/db.json'));
     const newNote = req.body;
-    newNote.id = uniqid();
+    // newNote.id = uniqid();
     existingNote.push(newNote);
 
     fs.writeFileSync('./Develop/db/db.json', JSON.stringify(existingNote));
