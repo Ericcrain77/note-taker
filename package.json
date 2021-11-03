@@ -11,6 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "inquirer": "^8.2.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
     "uniqid": "^5.4.0"
   }
 }
