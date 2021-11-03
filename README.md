@@ -1,5 +1,9 @@
 # Note Taker
 
+Deployed Application: https://damp-eyrie-05003.herokuapp.com/
+
+GitHub Repository: https://github.com/Ericcrain77/note-taker
+
 ## Table of Contents
 * [Description](#description)
 * [Screenshots](#Screenshots)
