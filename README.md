@@ -14,7 +14,7 @@ Note Taker is an application designed to write and save notes. This application 
 
 ## Screenshots
 Index Page
-![Index]((Develop/public/assets/images/index.jpg "Index Page")
+![Index](Develop/public/assets/images/index.jpg "Index Page")
 
 Notes Page
 ![Notes](Develop/public/assets/images/notes.jpg "Notes Page")
